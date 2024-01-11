@@ -1,15 +1,15 @@
 # AboutMe
-<h2> Hi there, I am <a >Varsha kaushal </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
- <img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
+ #<h2> Hi there, I am <a >Varsha kaushal </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+  #<img align='right' src="https://media.giphy.com/media/XGmwiw4CkjtAIU3b0z/giphy.gif" width="250"> 
  
-- 🏫 I have completed my B.tech in 2023
-- ✈  I am working in Navblue team
-- 🔭 I’m currently improving my competitive programming skills and learning finance.
-- 📫 How to reach me: https://www.linkedin.com/in/varsha-kaushal-039b651a9/
-- 🎯 2024 Goal is to contribute good codes in organization.
-- 😄 Pronouns: she/her
-- 🎈 Fun Fact: I love adding new bugs and I am a automation test engineer.
-<br>
+#- 🏫 I have completed my B.tech in 2023
+#- ✈  I am working in Navblue team
+#- 🔭 I’m currently improving my competitive programming skills and learning finance.
+#- 📫 How to reach me: https://www.linkedin.com/in/varsha-kaushal-039b651a9/
+#- 🎯 2024 Goal is to contribute good codes in organization.
+#- 😄 Pronouns: she/her
+#- 🎈 Fun Fact: I love adding new bugs and I am a automation test engineer.
+#<br>
 
 </div>
 <br /> <br />
