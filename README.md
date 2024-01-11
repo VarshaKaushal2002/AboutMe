@@ -9,12 +9,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/varsha-kaushal-039b651a9/
 - 🎯 2024 Goal is to contribute good codes in organization.
 - 😄 Pronouns: she/her
-- 🎈 Fun Fact: I love adding new bugs and I am a automation test engineer.
+- 🎈 Fun Fact: I love adding new bugs and I am an automation test engineer.
 <br>
 
 </div>
-<br /> <br />
-
  
 **⚙️ Visitors Count:**
 <br>
